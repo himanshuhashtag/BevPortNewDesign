@@ -1,0 +1,62 @@
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\appsettings.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.staticwebassets.runtime.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.exe
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.deps.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.runtimeconfig.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.dll
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.pdb
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.AssemblyInfo.cs
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.RazorAssemblyInfo.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.RazorAssemblyInfo.cs
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.BevPortNewDesign.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.build.BevPortNewDesign.props
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BevPortNewDesign.props
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BevPortNewDesign.props
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\bundle\BevPortNewDesign.styles.css
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\projectbundle\BevPortNewDesign.bundle.scp.css
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.dll
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\refint\BevPortNewDesign.dll
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.pdb
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.genruntimeconfig.cache
+C:\Users\dell\source\repos\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\ref\BevPortNewDesign.dll
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\appsettings.Development.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\appsettings.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.staticwebassets.runtime.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.exe
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.deps.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.runtimeconfig.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.dll
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\bin\Debug\net6.0\BevPortNewDesign.pdb
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.csproj.AssemblyReference.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.GeneratedMSBuildEditorConfig.editorconfig
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.AssemblyInfoInputs.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.AssemblyInfo.cs
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.csproj.CoreCompileInputs.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.MvcApplicationPartsAssemblyInfo.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.RazorAssemblyInfo.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.RazorAssemblyInfo.cs
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.BevPortNewDesign.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.build.BevPortNewDesign.props
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BevPortNewDesign.props
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BevPortNewDesign.props
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.pack.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.build.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\staticwebassets.development.json
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\bundle\BevPortNewDesign.styles.css
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\scopedcss\projectbundle\BevPortNewDesign.bundle.scp.css
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.dll
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\refint\BevPortNewDesign.dll
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.pdb
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\BevPortNewDesign.genruntimeconfig.cache
+D:\HIMANSHU MISHRA\BevPort Project\BevPortNewDesign\BevPortNewDesign\obj\Debug\net6.0\ref\BevPortNewDesign.dll

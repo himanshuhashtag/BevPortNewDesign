@@ -1,0 +1,875 @@
+body {
+	color: #414048;
+	font-family: 'Libre Franklin';
+	font-size: 16px;
+	font-weight: 500;
+}
+/*Top Bar*/
+.topbarnav {
+	background: #e7e7e8;
+}
+.top-rightNav {
+	float: right;
+	font-size: 14px;
+	color: #000;
+}
+.top-rightNav a{
+	color: #000;
+}
+.makebtnright {
+	float: right;
+	width: auto;
+}
+.mainsubmenu .navbar-nav > li {
+	float: none;
+	display: inline-block;
+	text-transform: uppercase;
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 700;
+}
+.navbar-default .mainsubmenu  .navbar-nav > li > a {
+	color: #231f20;
+}
+.top-rightNav ul li {
+	padding: 0 10px;
+	line-height: 40px;
+	text-transform: uppercase;
+	font-size: 12px;
+	font-weight: 600;
+	text-decoration: none;
+}
+.top-rightNav ul li a{
+	text-decoration: none;
+}
+.top-rightNav ul {
+	margin: 0;
+}
+/*End Top Bar*/
+.main-naivgation .navbar-brand img {
+	height: 82px;
+}
+.main-naivgation .navbar {
+	min-height: 100px;
+	padding: 5px 0;
+	margin-bottom: 0;
+}
+.main-naivgation .navbar-default {
+	background-color: #fff;
+	border-color: #e7e7e7;
+}
+.main-naivgation .navbar-default .navbar-toggle {
+	border-color: transparent;
+	margin-top: 30px;
+}
+.main-naivgation .navbar-default .navbar-toggle:focus, .main-naivgation .navbar-default .navbar-toggle:hover {
+	background-color: transparent;
+}
+.main-naivgation .navbar-brand {
+	height: auto;
+	padding: 5px 30px;	
+	box-sizing: border-box;
+	padding-left: 15px;
+}
+.main-naivgation ul.nav.navbar-nav {
+	padding: 18px 0;
+	width: 100%;
+	text-align: center;
+	position: absolute;
+	left: 0;
+	right: 0;
+	max-width: 930px;
+	margin: auto;
+}
+.makebtnright a {
+	background: #4d79c7;
+	color: #fff;
+	padding: 8px 46px;
+	border-radius: 8px;
+	text-transform: uppercase;
+}
+.makebtnright {
+  float: right;
+  width: auto;
+  height: 92px;
+  display: flex;
+  align-items: center;
+}
+.main-naivgation .navbar-default .navbar-nav > .active > a{
+	background-color: transparent;
+	color: #1185d5;
+}
+.col-md-5.simplecontent {
+	background-color: #5a392f;
+	height: 100%;
+	padding: 0;
+}
+.col-md-7.manBgimg {
+	padding: 0;
+}
+.manImg img {
+	width: 100%;
+	height: 608px;
+}
+.textSimply h1 .browntext {
+	color: #946c5f;
+	display: block;
+}
+.textSimply h1 {
+	color: #cd946d;
+}
+.brownhite {
+	color: #fff;
+}
+.simplyfyingDiv{
+	position: relative;
+}
+.simplecontentimg img {
+	height: 608px;
+	width: 100%;
+}
+.moveTopUp {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+}
+.textSimply h1 {
+	color: #cd946d;
+	font-size: 56px;
+	font-weight: 800;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.textSimply {
+	position: absolute;
+	top: 200px;
+	padding-right: 25px;
+}
+/*Join the Conversation*/
+.newdistribution {
+	background: #F7941D;
+	padding: 20px 0 25px;
+}
+.newdistribution h1 {
+	font-size: 56px;
+	color: #fff;
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 800;
+	margin-bottom: 25px;
+}
+.videoside p {
+	color: #fff;
+}
+.buttonbrownTwo {
+	margin-top: 35px;
+}
+.buttonbrownTwo a {
+	background: #5A392F;
+	color: #fff;
+	padding: 8px 24px;
+	margin-right: 25px;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 8px;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: 'Libre Franklin', sans-serif;
+}
+/*End join the Conversation*/
+/*Brewers And Buyers*/
+.col-md-6.brewersPart {
+	padding: 0;
+	background: #cd946d;
+}
+.col-md-6.buyersPart {
+	padding: 0;
+	background: #b6b6af;
+}
+.col-md-6.buyersPart .buyerbg img, .col-md-6.brewersPart .brewersBg img{
+	max-height: 730px;
+	width: 100%;
+}
+.BrewersbyCompound {
+	position: relative;
+}
+.brewerBuyersSection {
+	position: absolute;
+	top: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+	width: 100%;
+}
+.commonfeatures.brewerText {
+	padding-top: 50px;
+	padding-right: 40px;
+}
+.commonfeatures.buyersText {
+	padding-top: 50px;
+	padding-left: 40px;
+}
+.commonfeatures.brewerText h1 {
+	font-size: 56px;
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 800;
+	color: #5a392f;
+}
+.commonfeatures.buyersText h1{
+	font-size: 56px;
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 800;
+	color: #414048;	
+}
+.brewersimg img {
+	height: 350px;
+}
+.brewerPara {
+	color: #5a392f;
+	font-weight: 600;
+	max-width: 330px;
+	margin: 0 0 35px;
+}
+.learnMoreBtn a{
+	background: #5A392F;
+	color: #cd946d;
+	padding: 8px 24px;
+	margin-right: 25px;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 8px;
+	text-decoration: none;
+	font-weight: 700;
+	font-family: 'Libre Franklin', sans-serif;
+	text-transform: uppercase;
+}
+.brewerPara span {
+	font-weight: bold;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.commonfeatures.buyersText .brewerPara {
+	color: #414048;
+}
+.commonfeatures.buyersText .learnMoreBtn a{
+	background: #414048;
+	color: #b6b6af;
+}
+/*End Brewers And Buyers Section*/
+/*Fast Track Design*/
+.col-md-6.fast-trackbgs, .col-md-6.fast-trackbgContent {
+	padding: 0;
+}
+.fast-trackbgsimg img {
+	width: 100%;
+	min-height: 570px;
+}
+.setIcon img {
+	height: 52px;
+}
+.fast-track {
+	position: relative;
+}
+.connectionswithRstaurant {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+	width: 100%;
+}
+.iconsText {
+	float: left;
+	width: 100%;
+	height: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	padding-right: 40px;
+}
+.iconsTextCombo {
+	background: #ffffffed;
+	float: left;
+	width: 50%;
+	padding: 15px 25px 10px;
+}
+.iconsTextCombo h3 {
+	color: #4d79c7;
+	font-weight: 700;
+	font-family: 'Libre Franklin', sans-serif;
+	margin-bottom: 5px;
+	font-size: 22px;
+}
+.fasttrackContents {
+	color: #414048;
+	padding-left: 40px;
+	padding-top: 50px;
+}
+.fasttrackContents h1 {
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 700;
+	font-size: 42px;
+	margin-bottom: 25px;
+	margin-top: 0;
+}
+.fasttrackContents ul {
+	padding: 0;
+	margin: 0;
+}
+.fasttrackContents ul li {
+	display: inline-block;
+	width: 50%;
+	float: left;
+	background: url("../images/bluetick.png") no-repeat left;
+	background-size: 20px;
+	padding-left: 30px;
+	margin-bottom: 15px;
+	font-weight: 700;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.fasttrackContents .learnMoreBtn {
+	clear: both;
+	margin: 35px 0 0;
+	float: left;
+	width: 100%;
+}
+.fasttrackContents .learnMoreBtn a {
+	background: #4d79c7;
+	color: #fff;
+}
+/*End Fast Track Design*/
+/*Foddies Section*/
+.distributionEmpowers {
+	position: relative;
+}
+.col-md-6.distributionEmpowerstext {
+	background: #e6c9b6;
+	min-height: 450px;
+	padding: 0;
+}
+.col-md-6.foodDrinkbg {
+	padding: 0;
+}
+.foodiesimg img {
+	width: 100%;
+	max-height: 450px;
+	object-fit: cover;
+}
+.distributionEmpowersBg {
+	color: #414048;
+	padding-right: 40px;
+	padding-top: 50px;
+}
+.distributionEmpowersBg h1 {
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 700;
+	font-size: 42px;
+	margin-bottom: 25px;
+}
+.distributionEmpowersBg p span {
+	font-weight: 700;
+	font-family: 'Libre Franklin', sans-serif;
+}
+.numericvalues {
+	float: left;
+	width: 100%;
+}
+.numbers {
+	width: 50%;
+	float: left;
+	display: inline-block;
+}
+.numbers h3 {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 62px;
+	font-weight: 800;
+	margin-bottom: 2px;
+}
+.numbers span {
+	font-size: 14px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+/*End Foodies Section*/
+/*Testimonial Slider*/
+.testimonial_subtitle{
+    color: #0aaa7a;
+    font-size: 12px;
+}
+  .testimonial_btn{
+    background-color: #373d4b !important;
+    color: #fff !important;
+ }
+ .seprator {
+    height: 2px;
+    width: 56px;
+    background-color: #0aaa7a;
+    margin: 7px 0 10px 0;
+}
+.raveheading {
+	font-family: 'Libre Franklin', sans-serif;
+	font-weight: 700;
+	font-size: 42px;
+	margin-bottom: 35px;
+	text-align: center;
+}
+.testimonialContent {
+	padding: 50px 0 80px;
+}
+.testimonialContent .carousel {
+	max-width: 840px;
+	margin: auto;
+}
+.testimonialContent .controls.testimonial_control .carousel-control {
+	background-image: none;
+	color: #000;
+}
+.testimonialContent .carousel-control {
+	color: #000;
+	text-align: center;
+	text-shadow: 0 1px 2px rgba(0,0,0,.6);
+	opacity: 1;
+	top: 80px;
+}
+.testimonialContent .carousel-inner p {
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 22px;
+}
+.testimonialContent .carousel-inner h4 {
+	font-weight: 400;
+	font-style: italic;
+}
+.testimonialContent .carousel-inner .item .img-responsive {
+	border-radius: 10px;
+}
+.testimonialContent .carousel-indicators li {
+	display: inline-block;
+	width: 12px;
+	height: 12px;
+	margin: 0;
+	background-color: #bcbdc0;
+	border: 1px solid #bcbdc0;
+}
+.testimonialContent .carousel-indicators .active {
+	width: 12px;
+	height: 12px;
+	margin: 0;
+	background-color: #a1a2a5;
+}
+.testimonialContent .carousel-indicators {
+	bottom: -30px;
+	margin: auto;
+	width: 100%;
+	left: 0;
+	right: 0;
+}
+/*End Testimonials Slider*/
+/*Footer Design*/
+.footer {
+	background: #5a392f;
+	padding: 50px 0 20px;
+}
+.ftparas {
+	color: #fff;
+	font-size: 14px;
+}
+.ftrlogo {
+	margin: 0 0 25px;
+}
+.footer ul.social-links li img {
+	width: 32px;
+}
+.footer ul.social-links li {
+	display: inline-block;
+}
+.ftrlogo img {
+	width: 100px;
+}
+.footer-heading {
+	color: #FFFFFF;
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 24px;
+	font-weight: 700;
+	margin-top: 0;
+}
+.footer ul {
+	padding: 0;
+}
+.footer ul li {
+	list-style: none;
+	margin: 0 0 5px;
+}
+.footer a {
+	color: #fff;
+	text-decoration: none;
+}
+.newsletter .elementor-heading-title {
+	color: #FFFFFF;
+	font-family: 'Libre Franklin', sans-serif;
+	font-size: 30px;
+	font-weight: 700;
+	line-height: 1.5em;
+}
+.newsletter {
+	text-align: center;
+	padding: 45px 0 0;
+}
+.newsletter p{
+	text-align: center;
+	color: #fff;
+	font-weight: 400;	
+}
+.mc4wp-form-fields .mc_merge_var {
+	position: relative;
+	min-width: 270px;
+	width: 100%;
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 0;
+}
+.mc4wp-form-fields {
+	position: relative;
+	max-width: 558px;
+	margin: auto;
+}
+.mc4wp-form-fields .mc_merge_var input {
+	width: 100%;
+	height: 50px;
+	background: #fff;
+	border-color: transparent;
+	padding: 15px;
+	border-radius: 4px;
+}
+.mc4wp-form .mc_merge_var input {
+  background: #10172d;
+  color: #454d65;
+  font-weight: 400;
+}
+.mc_signup_submit {
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+.mc_signup_submit input {
+	background: #141d38;
+	border-color: transparent;
+	color: #fff;
+	width: 117px;
+	height: 50px;
+}
+.ftr-copyright {
+	border-top: none;
+	background: #5a392f;
+	padding: 25px 0;
+	text-align: center;
+	font-size: 14px;
+	color: #fff;
+}
+.copyright p span a {
+	color: #fff;
+	text-decoration: none;
+}
+/*End Footer */
+/*Media Query*/
+@media only screen and (max-width:1200px){
+.manImg img {
+	object-fit: cover;
+}
+.col-md-6.buyersPart .buyerbg img, .col-md-6.brewersPart .brewersBg img {
+	max-height: 100%;
+	width: 100%;
+	height: 770px;
+}
+.fast-trackbgsimg img {
+	width: 100%;
+	min-height: 670px;
+}
+.foodiesimg img {
+	width: 100%;
+	max-height: auto;
+	object-fit: cover;
+	height: 450px;
+}
+.numbers h3{
+	font-size: 50px;
+}
+.numbers span{
+	font-size: 12px;
+}
+}
+@media only screen and (max-width:992px){
+.row.upcontent {
+	display: flex;
+	flex-direction: column;
+}
+.col-md-5.simplecontent {
+	background-color: #5a392f;
+	height: 100%;
+	padding: 0;
+	width: 100%;
+	order: 2;
+	display: none;
+}
+.col-md-7.manBgimg {
+	padding: 0;
+	width: 100%;
+	order: 1;
+}
+.moveTopUp {
+	position: relative;
+	top: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	background: #5a392f url("../images/homecnavs.png");
+	margin: 0;
+	clear: both;
+	background-size: 100%;
+}
+.moveTopUp .col-md-4 {
+	width: 100%;
+}
+.manImg img {
+	width: 100%;
+	height: auto;
+}
+.textSimply {
+	position: relative;
+	top: 0;
+	padding: 50px 0;
+}
+.newdistribution h1 {	
+	max-width: 600px;
+	text-align: center;
+	margin: 50px auto;
+}
+.row.videorows .col-md-4.col-sm-12 {
+	width: 100%;
+}
+.row.videorows .col-md-8.col-sm-12 {
+	width: 100%;
+	margin: auto;
+	text-align: center;
+}
+.row.videorows .col-md-8.col-sm-12 .videoside {
+	text-align: left;
+}
+.video-container video {
+	width: 100%;
+	height: auto;
+	margin: 0 0 25px;
+}
+.buttonbrownTwo {
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.row.hidethis {
+	display: none;
+}
+.brewerBuyersSection {
+	position: relative;
+	top: 0;
+	right: 0;
+	left: 0;
+	margin: auto;
+	width: 100%;
+}
+.brewerBuyersSection .container {
+	margin: 0;
+	width: 100%;
+}
+.col-md-6.brewersbake {
+	width: 100%;
+	background: #cd946d;
+	padding: 0 25px;
+}
+.commonfeatures.brewerText {
+	padding-top: 50px;
+	padding-right: 0;
+	padding-bottom: 50px;
+}
+.brewerPara {
+	max-width: 100%;
+}
+.brewersimg img {
+	height: auto;
+	width: 100%;
+}
+.col-md-6.byersbake {
+	background: #b6b6af;
+	width: 100%;
+	padding: 0 25px;
+}
+.commonfeatures.buyersText {
+	padding-top: 50px;
+	padding-left: 0;
+	padding-bottom: 50px;
+}
+.row.keepimg {
+	display: none;
+}
+.row.keepcontent {
+	display: flex;
+	flex-direction: column;
+}
+.col-md-6.order2 {
+	width: 100%;
+	order: 2;
+	background: url("../images/fastrackbg.jpg") no-repeat;
+	background-size: cover;
+}
+.col-md-6.order1 {
+	order: 1;
+	width: 100%;
+}
+.connectionswithRstaurant {
+	position: relative;
+}
+.yourConnections .container-fluid {
+	padding: 0;
+}
+.distributionEmpowers {
+	position: relative;
+	margin: 35px 0 0;
+}
+.col-md-6.distributionEmpowerstext{
+	display: none;
+}
+.distributionEmpowers .connectionswithRstaurant {
+	position: relative;
+}
+.distributionEmpowers {
+	position: relative;
+	margin: 35px 0 0;
+	background: #e6c9b6;
+}
+.distributionEmpowersBg {
+	color: #414048;
+	padding-right: 0;	
+}
+.distributionEmpowers {
+	position: relative;
+	margin: 35px 0 0;
+	background: #e6c9b6;
+	padding: 0 0 50px;
+}
+.distributionEmpowersBg h1{
+	margin-top: 0;
+}
+.fasttrackContents {
+	padding-bottom: 50px;
+	display: flex;
+	flex-direction: column;
+}
+.iconsText {
+	padding: 40px;
+}
+.testimonialContent .col-sm-2 {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 35px;
+}
+.testimonialContent .col-sm-2 img{
+	margin: auto;
+}
+.testimonialContent .col-sm-10 {
+	width: 100%;
+	max-width: 600px;
+	margin: auto;
+	text-align: center;
+	float: none;
+}
+.footer .col-md-3 {
+	width: 100%;
+	text-align: center;
+	margin: 0 0 35px;
+}
+.footer ul{
+	padding: 0;
+}
+.footer ul.social-links {
+	margin-top: 25px;
+}
+.ftr-copyright{
+	padding: 0 0 20px;
+}
+.footer {
+	padding: 50px 0 0;
+}
+.makebtnright {
+	z-index: 1;
+	position: relative;
+}
+.makebtnright a {
+	padding: 8px 26px;
+	text-decoration: none;
+}
+}
+@media only screen and (max-width:767px){
+.mainsubmenu .navbar-nav > li {
+	display: block;
+}
+.main-naivgation ul.nav.navbar-nav{
+	position: relative;
+}
+.makebtnright {
+	height: auto;
+	display: flex;
+	align-content: center;
+	justify-content: center;
+	width: 100%;
+}
+.main-naivgation .navbar {
+	padding-bottom: 25px;
+}
+}
+@media only screen and (max-width:600px){
+.iconsText {
+	padding: 20px 0px;
+}
+.numbers h3 {
+	font-size: 48px;
+}
+.numbers span {
+	font-size: 12px;
+}
+.fasttrackContents{
+	padding-left: 0;
+	padding-bottom: 30px;
+}
+.fasttrackContents ul li {
+	background-size: 16px;
+	padding-left: 25px;	
+	font-size: 14px;
+}
+.fasttrackContents .learnMoreBtn{
+	margin: 20px 0 0;
+}
+.iconsTextCombo {
+	padding: 15px 15px 10px;
+}
+}
+@media only screen and (max-width:480px){
+.textSimply h1 {
+	font-size: 42px;
+}
+.newdistribution h1{
+	font-size: 42px;
+}
+.buttonbrownTwo a {
+	padding: 8px 10px;
+	margin-right: 10px;
+}
+.fasttrackContents h1{
+	font-size: 32px;
+}
+.fasttrackContents ul li{
+	width: 100%;
+}
+.iconsTextCombo{
+	width: 100%;
+}
+.distributionEmpowersBg h1{
+	font-size: 32px;
+}
+.numbers {
+	width: 100%;
+}
+}
+/*End Media Query*/
